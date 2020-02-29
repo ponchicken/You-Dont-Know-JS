@@ -1,3 +1,7 @@
+---
+modified: 2020-02-29T09:38:42+03:00
+---
+
 # You Don't Know JS Yet: Scope & Closures - 2nd Edition
 
 | NOTE: |
